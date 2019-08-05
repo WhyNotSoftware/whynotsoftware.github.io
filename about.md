@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Why Not Software offers [bespoke software development](https://whynotsoftware.co.uk/#bespoke-software-development) and Clojure/ClojureScript consulting services such as [contracting](https://whynotsoftware.co.uk/#software-development-contracting) and [remote team extension](https://whynotsoftware.co.uk/#remote-team-extension).
 
-### More Information
+### Contact Us
 
-A place to include any other types of information that you'd like to include about yourself.
+[info@whynotsoftware.co.uk](mailto:info@whynotsoftware.co.uk)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
++44 7593 384767
