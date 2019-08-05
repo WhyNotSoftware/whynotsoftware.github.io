@@ -41,4 +41,4 @@ And the associated test:
             {:a 4, :b false, :c nil, :e 5})
       => {:a 4, :b false, :c nil, :d 3, :e 5})
 
-Yes, it was a basic error but easy to make.
+Yes, it was a basic error, but easy to make.
